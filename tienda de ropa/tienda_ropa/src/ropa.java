@@ -1,4 +1,4 @@
-public class App {
+public class ropa {
     public static void main(String[] args) throws Exception {
         final float CAMISA = 25;
         final float PANTALON = 30;

@@ -1,4 +1,4 @@
-public class App {
+public class banco {
     public static void main(String[] args) throws Exception {
         
         int CANT_INICIAL = 1000;

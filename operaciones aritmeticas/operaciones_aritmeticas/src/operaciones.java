@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class App {
+public class operaciones {
     public static void main(String[] args) throws Exception {
         
         Scanner Leer = new Scanner(System.in);
