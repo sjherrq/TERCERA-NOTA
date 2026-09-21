@@ -34,7 +34,12 @@ public class Calculadora {
                 break;
 
             case '/':
-                System.out.println(a/b);
+                if (b == 0){
+                    System.out.println("error no se puede dividir entre 0");
+                 } else {
+                    System.out.println(a/b);}
+                
+                
                 break;
 
 
