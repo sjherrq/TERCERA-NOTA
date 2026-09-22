@@ -1,6 +1,6 @@
     import java.util.Scanner;
 
-public class App {
+public class TablMulti {
     public static void main(String[] args) throws Exception {
         Scanner teclado = new Scanner(System.in);
         System.out.println("Bienvenido a la tabla de multiplicar de santi");
@@ -13,12 +13,6 @@ public class App {
 
             System.out.println(Numero+" x "+i+ " = " + resultado);
         }
-
-
-
-
-
-
 
 
 

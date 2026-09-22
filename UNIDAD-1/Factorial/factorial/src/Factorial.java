@@ -17,17 +17,10 @@ public class Factorial {
             factorial *= i;
             i++;
 
-
-             
-
+            
         }
 
            System.out.println(factorial);
-
-
-
-
-
 
 
 
